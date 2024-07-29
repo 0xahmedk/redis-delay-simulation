@@ -1,4 +1,4 @@
-# Redis Slow Command Simulation
+# Redis Delay Simulation
 
 This project demonstrates how to simulate slow commands in Redis using Node.js and Lua scripts. This can be useful for testing timeout behaviors and handling slow operations in Redis.
 
